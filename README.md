@@ -1,4 +1,4 @@
-# SQLAlchemy Relationships
+# Intro to SQLAlchemy Relationships
 
 ## Learning Goals
 
